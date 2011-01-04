@@ -1,0 +1,8 @@
+Algorithm
+---------
+
+1) Assign unique prime numbers to the characters of the alphabet.
+2) Compute the product of the prime numbers assigned to the characters of main string.
+3) Divide the product with each of the value assigned to the characters of the substring.
+4) If the third step leaves some remainder other than zero,the character is not found.
+5) If the remainder is zero, the character is present
